@@ -1,0 +1,2 @@
+class NoSuchFileOrDirectoryException(Exception):
+    pass
